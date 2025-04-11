@@ -70,4 +70,4 @@ for (const objInSamet of dataInSamet) {
 }
 
 // Записываем результат в файл
-workbookWrite.xlsx.writeFile("output/rezult.xlsx");
+workbookWrite.xlsx.writeFile("result/result.xlsx");
